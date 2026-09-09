@@ -1,0 +1,20 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Mono/C# specific ignores (safe to remove if every project here is GDScript-only)
+.mono/
+data_*/
+mono_crash.*.json
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor backup/temp files
+*.tmp
+*~
+
+# Uncomment if an export_presets.cfg ever contains sensitive data
+# (e.g. an Android keystore password)
+# export_presets.cfg

@@ -1,0 +1,14 @@
+# Normalize line endings for all files Git considers text
+* text=auto eol=lf
+
+# Force these asset types to be treated as binary so Git never tries to
+# diff/merge them as text (which can corrupt them)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ttf binary
+*.otf binary
+*.wav binary
+*.ogg binary
+*.mp3 binary
