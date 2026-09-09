@@ -2,7 +2,7 @@
 
 ## Game Idea
 
-A 2D hack-and-slash platformer. Genre: hack and slash / 2D platformer.
+A 2D hack-and-slash platformer.
 
 ## Week 1
 
